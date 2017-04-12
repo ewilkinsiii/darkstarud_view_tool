@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DarkStarUDViewTool::Renderer.copyright "DarkStar UD", "All rights reserved"
+DarkstarudViewTool::Renderer.copyright "DarkStar UD", "All rights reserved"
 ```
 
 ## Development
